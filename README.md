@@ -11,3 +11,4 @@ Backend
 1. Store chess moves (Via bit string)
     *Datatype to be defined
 2. Machine learning model inputs and outputs
+3. 
